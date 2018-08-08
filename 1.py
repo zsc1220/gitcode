@@ -1,3 +1,2 @@
-a = 2
-b = 1
-c = 1
+Git is a distributed version control system.
+Git is free software.
